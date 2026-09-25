@@ -1,0 +1,1 @@
+el objetivo de la pratica es de uno lo pueda hacer por si mismo ser el dueño de la colaboracion de este proyecto que se esta creando y que el otro sea el colaborador y pueda extraer el proyecro hecho por el dueño y para despues sea el final visa y versa
