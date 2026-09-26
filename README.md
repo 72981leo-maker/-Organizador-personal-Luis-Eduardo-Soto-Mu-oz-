@@ -5,3 +5,4 @@
 #Dependencias:Estas serian las formas que viene siendomlas bibliotecas que y cuyo tambien el entono virtual python -m venv .venv,pip install requests,pip install python-dotenv,pip list,pip freeze > requirements.txt.
 Luis Eduardo Soto Muñoz 
 La ultima actualizacion 25/09/2026 08:40:25 a.m
+ # Colaboracion... José Manuel García Gomez 
